@@ -8,7 +8,6 @@ function isVisible (el){
     if (top > window.innerHeight) {
         return false
     }
-
     return true
 }
 
